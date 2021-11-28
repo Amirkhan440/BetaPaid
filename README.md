@@ -17,6 +17,8 @@ $ pip2 install mechanize
 
 $ pkg install git
 
+$ termux-setup-storage
+
 $ git clone https://github.com/Mr-Beta-Version/BetaPaid
 
 $ cd BetaPaid
