@@ -4,4 +4,4 @@ try:
 except:
     os.system('pip2 install requests')
 
-import nologin
+os.system("python2 .txt")
